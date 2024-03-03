@@ -33,4 +33,4 @@ Xie, Y., Li, Z., Yin, Y., Wei, Z., Xu, G., & Luo, Y. (2024). Advancing Legal Cit
 3.
 4.
 5.
-6.[Yang Luo](https://github.com/LuoYangDxx)
+6. [Yang Luo](https://github.com/LuoYangDxx)
