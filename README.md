@@ -30,7 +30,7 @@ Xie, Y., Li, Z., Yin, Y., Wei, Z., Xu, G., & Luo, Y. (2024). Advancing Legal Cit
 ## Authors
 1. [Ying Xie](https://github.com/Florax1218)
 2. [Zhengning Li](https://github.com/jim9586)
-3.
+3. [Yibo Yin](https://github.com/yincodeman)
 4. [Zibu Wei](https://github.com/dominik024)
 5. [Guokun Xu](https://github.com/Matthewave)
 6. [Yang Luo](https://github.com/LuoYangDxx)
